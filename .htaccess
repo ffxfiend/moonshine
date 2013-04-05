@@ -1,0 +1,17 @@
+# Mod Rewrite configuration.
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# If this site is on a CPanel server
+# that needs to be accessed by [IP]/~[USERNAME]
+# modify and uncomment this line and comment out
+# the one below it. Replace [USERNAME] with the
+# CPanel user name. Remember to swap these again
+# once the site goes live and you can access it by
+# the domain name.
+#
+# RewriteRule ^(.*)$ /~[USERNAME]/index.php?rt=$1 [L,QSA]
+RewriteRule ^(.*)$ /index.php?rt=$1 [L,QSA]

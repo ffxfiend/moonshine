@@ -1,0 +1,296 @@
+2013-04-04 10:01:04: 2013-04-04 10:01:04 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:01:04
+<br />
+2013-04-04 10:01:04: 2013-04-04 10:01:04 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:04
+<br />
+2013-04-04 10:01:04: 2013-04-04 10:01:04 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:04
+<br />
+2013-04-04 10:01:04: 2013-04-04 10:01:04 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:01:04
+<br />
+2013-04-04 10:01:04: 2013-04-04 10:01:04 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:04
+<br />
+2013-04-04 10:01:04: 2013-04-04 10:01:04 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:04
+<br />
+2013-04-04 10:01:34: 2013-04-04 10:01:34 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:01:34
+<br />
+2013-04-04 10:01:34: 2013-04-04 10:01:34 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:34
+<br />
+2013-04-04 10:01:34: 2013-04-04 10:01:34 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:34
+<br />
+2013-04-04 10:01:35: 2013-04-04 10:01:35 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:01:35
+<br />
+2013-04-04 10:01:35: 2013-04-04 10:01:35 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:35
+<br />
+2013-04-04 10:01:36: 2013-04-04 10:01:36 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:36
+<br />
+2013-04-04 10:01:37: 2013-04-04 10:01:37 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:01:37
+<br />
+2013-04-04 10:01:37: 2013-04-04 10:01:37 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:37
+<br />
+2013-04-04 10:01:37: 2013-04-04 10:01:37 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:37
+<br />
+2013-04-04 10:01:37: 2013-04-04 10:01:37 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:01:37
+<br />
+2013-04-04 10:01:37: 2013-04-04 10:01:37 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:37
+<br />
+2013-04-04 10:01:37: 2013-04-04 10:01:37 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:01:37
+<br />
+2013-04-04 10:03:17: 2013-04-04 10:03:17 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:03:17
+<br />
+2013-04-04 10:03:17: 2013-04-04 10:03:17 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:03:17
+<br />
+2013-04-04 10:03:17: 2013-04-04 10:03:17 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:03:17
+<br />
+2013-04-04 10:03:17: 2013-04-04 10:03:17 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:03:17
+<br />
+2013-04-04 10:03:17: 2013-04-04 10:03:17 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:03:17
+<br />
+2013-04-04 10:03:17: 2013-04-04 10:03:17 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:03:17
+<br />
+2013-04-04 10:04:37: 2013-04-04 10:04:37 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:04:37
+<br />
+2013-04-04 10:04:37: 2013-04-04 10:04:37 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:04:37
+<br />
+2013-04-04 10:04:42: 2013-04-04 10:04:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:04:42
+<br />
+2013-04-04 10:04:42: 2013-04-04 10:04:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:04:42
+<br />
+2013-04-04 10:04:42: 2013-04-04 10:04:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:04:42
+<br />
+2013-04-04 10:04:42: 2013-04-04 10:04:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:04:42
+<br />
+2013-04-04 10:06:28: 2013-04-04 10:06:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:06:28
+<br />
+2013-04-04 10:06:28: 2013-04-04 10:06:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:06:28
+<br />
+2013-04-04 10:06:28: 2013-04-04 10:06:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:06:28
+<br />
+2013-04-04 10:06:28: 2013-04-04 10:06:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:06:28
+<br />
+2013-04-04 10:06:28: 2013-04-04 10:06:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:06:28
+<br />
+2013-04-04 10:06:28: 2013-04-04 10:06:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:06:28
+<br />
+2013-04-04 10:09:19: 2013-04-04 10:09:19 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:09:19
+<br />
+2013-04-04 10:09:19: 2013-04-04 10:09:19 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:09:19
+<br />
+2013-04-04 10:09:19: 2013-04-04 10:09:19 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:09:19
+<br />
+2013-04-04 10:09:19: 2013-04-04 10:09:19 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:09:19
+<br />
+2013-04-04 10:09:19: 2013-04-04 10:09:19 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:09:19
+<br />
+2013-04-04 10:09:19: 2013-04-04 10:09:19 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:09:19
+<br />
+2013-04-04 10:09:48: 2013-04-04 10:09:48 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:09:48
+<br />
+2013-04-04 10:09:48: 2013-04-04 10:09:48 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:09:48
+<br />
+2013-04-04 10:09:48: 2013-04-04 10:09:48 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:09:48
+<br />
+2013-04-04 10:09:48: 2013-04-04 10:09:48 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:09:48
+<br />
+2013-04-04 10:09:48: 2013-04-04 10:09:48 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:09:48
+<br />
+2013-04-04 10:09:48: 2013-04-04 10:09:48 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:09:48
+<br />
+2013-04-04 10:11:27: 2013-04-04 10:11:27 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:11:27
+<br />
+2013-04-04 10:11:27: 2013-04-04 10:11:27 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:27
+<br />
+2013-04-04 10:11:27: 2013-04-04 10:11:27 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:27
+<br />
+2013-04-04 10:11:27: 2013-04-04 10:11:27 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:11:27
+<br />
+2013-04-04 10:11:27: 2013-04-04 10:11:27 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:27
+<br />
+2013-04-04 10:11:27: 2013-04-04 10:11:27 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:27
+<br />
+2013-04-04 10:11:28: 2013-04-04 10:11:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:11:28
+<br />
+2013-04-04 10:11:28: 2013-04-04 10:11:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:28
+<br />
+2013-04-04 10:11:28: 2013-04-04 10:11:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:28
+<br />
+2013-04-04 10:11:28: 2013-04-04 10:11:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:11:28
+<br />
+2013-04-04 10:11:28: 2013-04-04 10:11:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:28
+<br />
+2013-04-04 10:11:28: 2013-04-04 10:11:28 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:28
+<br />
+2013-04-04 10:11:42: 2013-04-04 10:11:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 145
+<br />Undefined variable: sLile
+<br />Date/Time: 4-4-2013 22:11:42
+<br />
+2013-04-04 10:11:42: 2013-04-04 10:11:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:11:42
+<br />
+2013-04-04 10:11:42: 2013-04-04 10:11:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:42
+<br />
+2013-04-04 10:11:42: 2013-04-04 10:11:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:42
+<br />
+2013-04-04 10:11:42: 2013-04-04 10:11:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 145
+<br />Undefined variable: sLile
+<br />Date/Time: 4-4-2013 22:11:42
+<br />
+2013-04-04 10:11:42: 2013-04-04 10:11:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:11:42
+<br />
+2013-04-04 10:11:42: 2013-04-04 10:11:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:42
+<br />
+2013-04-04 10:11:42: 2013-04-04 10:11:42 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:42
+<br />
+2013-04-04 10:11:58: 2013-04-04 10:11:58 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:11:58
+<br />
+2013-04-04 10:11:58: 2013-04-04 10:11:58 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:58
+<br />
+2013-04-04 10:11:58: 2013-04-04 10:11:58 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:58
+<br />
+2013-04-04 10:11:58: 2013-04-04 10:11:58 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 146
+<br />mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'moonshine'@'localhost' (using password: YES)
+<br />Date/Time: 4-4-2013 22:11:58
+<br />
+2013-04-04 10:11:58: 2013-04-04 10:11:58 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 152
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:58
+<br />
+2013-04-04 10:11:58: 2013-04-04 10:11:58 - An error occurred in script '/Volumes/Swivl/WORK/clients/Igzactly Development/PROJECTS/MOONSHINE/VERSIONS/3.0/root/app/lib/mysql_db.php' on line 153
+<br />mysql_db::connect() [<a href='mysql-db.connect'>mysql-db.connect</a>]: Couldn't fetch mysqli
+<br />Date/Time: 4-4-2013 22:11:58
+<br />
