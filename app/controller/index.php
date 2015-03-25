@@ -6,11 +6,6 @@ class indexController extends baseController {
 
         $tpl = Template::getInstance();
 
-        /* $pt = new pagetemplate();
-        $pt->load(1);
-        dump($pt,false);
-        dump(__LINE__ . " | " . __FILE__); */
-
         /* ***** GET THE DOCUMENT INFORMATION ***** */
         /********************************************/
         $oPage = new page();
